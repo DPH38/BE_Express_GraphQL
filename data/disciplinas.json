@@ -1,0 +1,127 @@
+[
+    {
+      "periodo": "1º período",
+      "disciplinas": [
+        {
+          "id": "1",
+          "nome": "Fundamentos de Engenharia de Software",
+          "descricao": "Introdução aos princípios e práticas da Engenharia de Software."
+        },
+        {
+          "id": "2",
+          "nome": "Lógica de Programação",
+          "descricao": "Estudo dos fundamentos de lógica aplicados à programação."
+        },
+        {
+          "id": "3",
+          "nome": "Matemática Discreta",
+          "descricao": "Conceitos de lógica matemática, conjuntos e grafos."
+        },
+        {
+          "id": "4",
+          "nome": "Metodologia Científica",
+          "descricao": "Introdução às técnicas e métodos para produção acadêmica."
+        }
+      ]
+    },
+    {
+      "periodo": "2º período",
+      "disciplinas": [
+        {
+          "id": "5",
+          "nome": "Algoritmos e Estruturas de Dados",
+          "descricao": "Análise de algoritmos e implementação de estruturas de dados."
+        },
+        {
+          "id": "6",
+          "nome": "Sistemas Operacionais",
+          "descricao": "Conceitos fundamentais sobre gerenciamento de hardware e software."
+        },
+        {
+          "id": "7",
+          "nome": "Programação Orientada a Objetos",
+          "descricao": "Princípios e práticas de programação baseada em objetos."
+        },
+        {
+          "id": "8",
+          "nome": "Probabilidade e Estatística",
+          "descricao": "Estudo de conceitos estatísticos aplicados à engenharia de software."
+        }
+      ]
+    },
+    {
+      "periodo": "3º período",
+      "disciplinas": [
+        {
+          "id": "9",
+          "nome": "Banco de Dados I",
+          "descricao": "Modelagem de dados e introdução a bancos relacionais."
+        },
+        {
+          "id": "10",
+          "nome": "Engenharia de Requisitos",
+          "descricao": "Coleta, análise e especificação de requisitos de software."
+        },
+        {
+          "id": "11",
+          "nome": "Redes de Computadores",
+          "descricao": "Princípios e práticas de comunicação em redes de computadores."
+        },
+        {
+          "id": "12",
+          "nome": "Design de Interfaces",
+          "descricao": "Criação de interfaces amigáveis e usabilidade em sistemas."
+        }
+      ]
+    },
+    {
+      "periodo": "4º período",
+      "disciplinas": [
+        {
+          "id": "13",
+          "nome": "Banco de Dados II",
+          "descricao": "Tópicos avançados como otimização de consultas e bancos NoSQL."
+        },
+        {
+          "id": "14",
+          "nome": "Teste e Qualidade de Software",
+          "descricao": "Técnicas para validação e verificação de software."
+        },
+        {
+          "id": "15",
+          "nome": "Arquitetura de Software",
+          "descricao": "Conceitos de design e padrões arquiteturais."
+        },
+        {
+          "id": "16",
+          "nome": "Programação Web",
+          "descricao": "Desenvolvimento de aplicações web utilizando tecnologias modernas."
+        }
+      ]
+    },
+    {
+      "periodo": "5º período",
+      "disciplinas": [
+        {
+          "id": "17",
+          "nome": "Inteligência Artificial",
+          "descricao": "Introdução a algoritmos de aprendizado de máquina e IA."
+        },
+        {
+          "id": "18",
+          "nome": "Segurança da Informação",
+          "descricao": "Fundamentos de segurança cibernética e criptografia."
+        },
+        {
+          "id": "19",
+          "nome": "Computação em Nuvem",
+          "descricao": "Conceitos e práticas de serviços e infraestrutura na nuvem."
+        },
+        {
+          "id": "20",
+          "nome": "Gerência de Projetos de Software",
+          "descricao": "Técnicas para planejamento e execução de projetos ágeis."
+        }
+      ]
+    }
+  ]  

@@ -1,0 +1,17 @@
+{
+  "name": "prova2",
+  "version": "1.0.0",
+  "description": "Prova de back",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "express": "^4.21.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.9.0"
+  }
+}
